@@ -9,7 +9,7 @@
 <br>
 <h1 align="left">🔭 My final year project </h1>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNmIyZTM3OTctYjc4OC00Y2Q5LTk2ZTktYTVjYWE3ODdiM2FjIiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ%3D%3D">Flash Flood Prediction Analysis with the application of Digital Twin</a><br><br>
-It is a user-fiendly dashboard that allows the public and government authorithes to easily comprehend and stay updated on the current environment in investigated Klang Valley areas. Digital twin concept is utilized by frequently pulling data into the warehouse and perform automate pre-procesisng and flood labelling, effectively addressed the delay issues and inaccurate response.<br><br>
+It is a user-fiendly dashboard that allows the public and government authorithes to easily comprehend and stay updated on the current environment in investigated Klang Valley areas. Digital twin concept is utilized by frequently pulling data into the warehouse and perform automate pre-procesisng and flood labelling, effectively addressed the delay issues and inaccurate responses.<br><br>
 
 - Page 1: select one date time with one/multiple rivers to evaluate flooding situations, precipitation and wind properties. <br>
 - Page 2: select one river to effectively analyze the weather patterns and the river conditions. <br><br>
