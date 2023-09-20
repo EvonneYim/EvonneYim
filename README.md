@@ -9,8 +9,8 @@
 <br>
 <h1 align="left">🔭 My final year project </h1>
 <a href="eyJrIjoiNmIyZTM3OTctYjc4OC00Y2Q5LTk2ZTktYTVjYWE3ODdiM2FjIiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ">Flash Flood Prediction Analysis with the application of Digital Twin</a><br><br>
-1) Page 1: select one date time with one/multiple rivers to evaluate flooding situations, precipitation and wind properties. <br>
-2) Page 2: select one river to effectively analyze the weather patterns and the river conditions. <br><br>
+- Page 1: select one date time with one/multiple rivers to evaluate flooding situations, precipitation and wind properties. <br>
+- Page 2: select one river to effectively analyze the weather patterns and the river conditions. <br><br>
 
 (Current connection of the project is off to save computation time and resources) <br><br>
 
