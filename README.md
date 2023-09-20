@@ -1,4 +1,4 @@
-<h1 align="left">Hello, this is Evonne👋</h1>
+<h1 align="left">👋 Hello, this is Evonne</h1>
 🏫 I'm a recent graduate from Asia Pacific University<br><br>
 📖 Course studied: Computer Science with a specialism in Data Analytics<br><br>
 ✉️ How to reach me: evonne.yimvv@gmail.com<br><br>
