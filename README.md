@@ -8,7 +8,7 @@
 3) Fan girl of Saotome Marry chan ♦️♣️♥️♠️ <br>
 <br>
 <h1 align="left">🔭 My final year project </h1>
-<a href="eyJrIjoiNmIyZTM3OTctYjc4OC00Y2Q5LTk2ZTktYTVjYWE3ODdiM2FjIiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ">Flash Flood Prediction Analysis with the application of Digital Twin</a><br><br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNmIyZTM3OTctYjc4OC00Y2Q5LTk2ZTktYTVjYWE3ODdiM2FjIiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ%3D%3D">Flash Flood Prediction Analysis with the application of Digital Twin</a><br><br>
 - Page 1: select one date time with one/multiple rivers to evaluate flooding situations, precipitation and wind properties. <br>
 - Page 2: select one river to effectively analyze the weather patterns and the river conditions. <br><br>
 
