@@ -17,7 +17,7 @@
 <h1 align="left">🔗 Connect with me</h1>
 <a href="http://www.linkedin.com/in/evonne-yim-vee-vern" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evonneyim" height="30" width="40" /></a><br><br>
 
-<h1 align="left">🔧 My Tech Stack</h1>
+<h1 align="left">🔧 Programming Languages</h1>
 <p align="left"> 
 <a><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="50" width="50" /></a>
 <a><img src= "https://camo.githubusercontent.com/fb918e17ceefa82b79b0432ebd0b5d2ac3438eedfc84f50f5d94fc036354c7ae/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31622f525f6c6f676f2e7376672f3235363070782d525f6c6f676f2e7376672e706e67" height="50" width="50" /></a>
