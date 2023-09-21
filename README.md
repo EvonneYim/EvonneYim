@@ -5,7 +5,7 @@
 🎊 Fun facts about me: <br>
 1) Practice coding skills in Hackerrank during free time<br>
 2) Participated in hackathons related to machine learnings, algorithmic solvings, innovation & creativity, etc.<br>
-3) Fan girl of Saotome Marry chan ♦️♣️♥️♠️ <br>
+3) Fan girl of Saotome Mary chan ♦️♣️♥️♠️ <br>
 <br>
 <h1 align="left">🔭 My final year project </h1>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNmIyZTM3OTctYjc4OC00Y2Q5LTk2ZTktYTVjYWE3ODdiM2FjIiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ%3D%3D">Flash Flood Prediction Analysis with the application of Digital Twin</a><br><br>
